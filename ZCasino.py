@@ -29,4 +29,4 @@ elif parite1==parite2:
 else:
     print("Perdu ...")
     gain=0
-print("Vos gains : ", gain)
+print("Vos gains : ", gain)SAlut
